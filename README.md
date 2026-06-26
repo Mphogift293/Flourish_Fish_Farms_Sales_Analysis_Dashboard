@@ -1,4 +1,4 @@
-# Flourish_Fish_Farms_Sales_Analysis_Dashboard 2026
+# Flourish_Fish_Farms_Sales_Analysis_Dashboard 2025
 
 ### About this Project
 Dashboard I built to track sales, costs & profit for a fish farming business across 5 states in Nigeria using Google Sheets.
